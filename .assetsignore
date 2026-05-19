@@ -1,0 +1,6 @@
+.git
+.gitignore
+.assetsignore
+.DS_Store
+node_modules
+CLOUDFLARE_PAGES_SNAPSHOT.md
